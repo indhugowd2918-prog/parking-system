@@ -1,0 +1,8 @@
+Time=0  | Reset=1 | Entry=0 | Exit=0 | Count=0 | Slots=0000 | Full=0 | Empty=1
+Time=15 | Reset=0 | Entry=1 | Exit=0 | Count=1 | Slots=0001 | Full=0 | Empty=0
+Time=25 | Reset=0 | Entry=1 | Exit=0 | Count=2 | Slots=0011 | Full=0 | Empty=0
+Time=35 | Reset=0 | Entry=1 | Exit=0 | Count=3 | Slots=0111 | Full=0 | Empty=0
+Time=45 | Reset=0 | Entry=1 | Exit=0 | Count=4 | Slots=1111 | Full=1 | Empty=0
+Time=55 | Reset=0 | Entry=1 | Exit=0 | Count=4 | Slots=1111 | Full=1 | Empty=0
+Time=65 | Reset=0 | Entry=0 | Exit=1 | Count=3 | Slots=0111 | Full=0 | Empty=0
+Time=75 | Reset=0 | Entry=0 | Exit=1 | Count=2 | Slots=0011 | Full=0 | Empty=0
